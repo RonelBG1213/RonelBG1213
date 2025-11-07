@@ -37,7 +37,7 @@
     <li>Web automation with Playwright (Python / JS)</li>
     <li>Load testing experiments with Locust</li>
     <li>Mobile automation fundamentals and API testing</li>
-    <li>Learning CI/CD pipelines (Jenkins, Docker)</li>
+    <li>Learning CI/CD pipelines (Jenkins, gitlab, azure pipeline, circleCI, Docker)</li>
   </ul>
 </div>
 
@@ -47,9 +47,9 @@
   This account hosts a mix of small projects and experiments across:
 </p>
 <ul>
-  <li>Mobile automation projects (Appium / Playwright Mobile)</li>
+  <li>Mobile automation projects Appium</li>
   <li>Web automation suites (Playwright / Selenium)</li>
-  <li>API tests and contract verification</li>
+  <li>API tests</li>
   <li>Utility scripts and learning notes in Python and JavaScript</li>
 </ul>
 
