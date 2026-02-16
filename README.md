@@ -31,7 +31,7 @@
   <h3>📚 Current focus</h3>
   <ul>
     <li>Web automation with Playwright (Python / JS)</li>
-    <li>Load testing experiments</li>
+    <li>Performance testing experiments</li>
     <li>Mobile automation fundamentals and API testing</li>
   </ul>
 </div>
