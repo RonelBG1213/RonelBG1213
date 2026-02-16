@@ -31,9 +31,8 @@
   <h3>📚 Current focus</h3>
   <ul>
     <li>Web automation with Playwright (Python / JS)</li>
-    <li>Load testing experiments with Locust</li>
+    <li>Load testing experiments</li>
     <li>Mobile automation fundamentals and API testing</li>
-    <li>Learning CI/CD pipelines (Jenkins, gitlab, azure pipeline, circleCI, Docker)</li>
   </ul>
 </div>
 
