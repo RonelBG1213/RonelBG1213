@@ -13,11 +13,7 @@
   <!-- <img src="https://avatars.githubusercontent.com/RonelBG1213" alt="Ronel Geronimo" width="120" style="border-radius:50%;"> -->
 
   <!-- Quick badges -->
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
-    <img alt="Locust" src="https://img.shields.io/badge/Locust-00B140?style=for-the-badge&logo=locust&logoColor=white" />
-  </p>
+
 
 </div>
 
