@@ -22,7 +22,7 @@
 <!-- Cover Section -->
 <h2>🎯 About me</h2>
 <p>
-  I'm an aspiring automation test engineer learning and experimenting with end-to-end tools.
+  I'm an aspiring automation test engineer learning and experimenting with automation tools.
   I enjoy building reliable automation for web, mobile, and APIs using both Python and JavaScript ecosystems.
 </p>
 
@@ -30,6 +30,7 @@
 <div>
   <h3>📚 Current focus</h3>
   <ul>
+    <li>Leveraging AI to accelerate test automation, enhancing development speed and maintaining high qualit</li>
     <li>Web automation with Playwright (Python / JS)</li>
     <li>Performance testing experiments</li>
     <li>Mobile automation fundamentals and API testing</li>
