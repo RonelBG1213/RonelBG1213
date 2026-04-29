@@ -2,41 +2,31 @@
   Profile README for Ronel Geronimo
   Improved layout using HTML tags and lightweight badges for GitHub profile README
 -->
-
 <div align="center">
-
   <!-- Header / Title -->
   <h1>👋 Hello — I'm <strong>Ronel Geronimo</strong></h1>
   <p><em>Aspiring Automation Test Engineer — exploring web, mobile & API automation</em></p>
-
   <!-- Optional avatar (uncomment and replace the src with your image URL) -->
   <!-- <img src="https://avatars.githubusercontent.com/RonelBG1213" alt="Ronel Geronimo" width="120" style="border-radius:50%;"> -->
-
   <!-- Quick badges -->
-
-
 </div>
-
 <hr />
-
 <!-- Cover Section -->
 <h2>🎯 About me</h2>
 <p>
   I'm an aspiring automation test engineer learning and experimenting with automation tools.
   I enjoy building reliable automation for web, mobile, and APIs using both Python and JavaScript ecosystems.
 </p>
-
 <!-- Cover details laid out with HTML -->
 <div>
   <h3>📚 Current focus</h3>
   <ul>
-    <li>Leveraging AI to accelerate test automation, enhancing development speed and maintaining high qualit</li>
+    <li>Leveraging AI to accelerate test automation, enhancing development speed and maintaining high quality</li>
     <li>Web automation with Playwright (Python / JS)</li>
     <li>Performance testing experiments</li>
     <li>Mobile automation fundamentals and API testing</li>
   </ul>
 </div>
-
 <!-- Repository information -->
 <h2>📂 Repository snapshot</h2>
 <p>
@@ -48,7 +38,6 @@
   <li>API tests</li>
   <li>Utility scripts and learning notes in Python and JavaScript</li>
 </ul>
-
 <!-- Invitation to help -->
 <details>
   <summary>💡 Want to help improve these repositories?</summary>
@@ -57,15 +46,16 @@
     If you spot anything that can be improved (tests, docs, structure), thank you for contributing!
   </p>
 </details>
-
 <!-- Contact / LinkedIn -->
 <h2>📫 Connect with me</h2>
 <p>
   <a href="https://www.linkedin.com/in/ronel-geronimo-72622b166" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 <!-- Small helpful tips for README visitors -->
 <hr />
 <h3>🔧 Quick tips</h3>
@@ -74,5 +64,4 @@
   <li>Tests and automation scripts often include a requirements.txt or package.json with setup instructions.</li>
   <li>Open an issue if something breaks or isn't clear — I appreciate the signal to improve things.</li>
 </ul>
-
 <p align="center">Made with ❤️ — Happy testing and learning!</p>
