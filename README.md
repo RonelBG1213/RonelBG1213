@@ -46,7 +46,7 @@
 <h3>🔭 Recent work</h3>
 <table>
   <tr>
-    <td><a href="https://github.com/RonelBG1213/locator-lens"><strong>locator-lens</strong></a></td>
+    <td><a href="https://chromewebstore.google.com/detail/locator-lens/kmcaboccnefnjbmgcaebmeglglcopfkk"><strong>locator-lens</strong></a></td>
     <td>
       Chrome extension that turns a clicked page element into a Playwright locator — with scoring,
       explanations, and verification. Bundles Playwright's own selector engine so suggestions match
