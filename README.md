@@ -1,7 +1,7 @@
 <!--
   Profile README for Ronel Geronimo
   Improved layout using HTML tags and lightweight badges for GitHub profile README
-  Repository snapshot last refreshed: 2026-08-07
+  Repository snapshot last refreshed: 2026-08-12
 -->
 <div align="center">
   <!-- Header / Title -->
@@ -36,6 +36,7 @@
     <li>Wiring test results into team workflows (Microsoft Teams / Power Automate)</li>
     <li>Performance testing with Grafana k6 and JMeter</li>
     <li>Cross-language coverage: Playwright (TS / Python), Selenium (Java), Appium (JS / Python)</li>
+    <li>Prototyping game mechanics in Python with pygame-ce — a side track for practising systems design</li>
   </ul>
 </div>
 <!-- Repository information -->
@@ -51,6 +52,15 @@
       Chrome extension that turns a clicked page element into a Playwright locator — with scoring,
       explanations, and verification. Bundles Playwright's own selector engine so suggestions match
       what a real test resolves. <em>TypeScript, Preact, esbuild.</em>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RonelBG1213/trace_viewer_extension"><strong>trace_viewer_extension</strong></a></td>
+    <td>
+      Chrome extension (Manifest V3) for opening a Playwright <code>trace.zip</code> without touching the
+      terminal — drop the file or paste its path and the trace renders in the official Playwright Trace
+      Viewer, framed from <code>trace.playwright.dev</code> and driven over origin-checked
+      <code>postMessage</code>. <em>TypeScript, Vite.</em>
     </td>
   </tr>
   <tr>
@@ -90,6 +100,19 @@
     <strong>Performance testing</strong> —
     <a href="https://github.com/RonelBG1213/grafanak6_trials">grafanak6_trials</a>,
     <a href="https://github.com/RonelBG1213/jmeter_test_trials">jmeter_test_trials</a>
+  </li>
+  <li>
+    <strong>Tooling &amp; extensions</strong> —
+    <a href="https://chromewebstore.google.com/detail/locator-lens/kmcaboccnefnjbmgcaebmeglglcopfkk">locator-lens</a>,
+    <a href="https://github.com/RonelBG1213/trace_viewer_extension">trace_viewer_extension</a>,
+    <a href="https://github.com/RonelBG1213/playwright-power-automate-reporter">playwright-power-automate-reporter</a>
+  </li>
+  <li>
+    <strong>Game prototypes (Python / pygame-ce)</strong> —
+    <a href="https://github.com/RonelBG1213/hack_and_slash_base">hack_and_slash_base</a> (top-down twin-stick
+    arena brawler),
+    <a href="https://github.com/RonelBG1213/dungeon_maker_base">dungeon_maker_base</a> (turn-based pixel RPG
+    with a built-in dungeon editor)
   </li>
   <li>
     <strong>Notes &amp; learning</strong> —
