@@ -1,7 +1,7 @@
 <!--
   Profile README for Ronel Geronimo
   Improved layout using HTML tags and lightweight badges for GitHub profile README
-  Repository snapshot last refreshed: 2026-08-12
+  Repository snapshot last refreshed: 2026-08-13
 -->
 <div align="center">
   <!-- Header / Title -->
@@ -36,7 +36,8 @@
     <li>Wiring test results into team workflows (Microsoft Teams / Power Automate)</li>
     <li>Performance testing with Grafana k6 and JMeter</li>
     <li>Cross-language coverage: Playwright (TS / Python), Selenium (Java), Appium (JS / Python)</li>
-    <li>Prototyping game mechanics in Python with pygame-ce — a side track for practising systems design</li>
+    <li>Prototyping game mechanics in Python with pygame-ce — fast iteration on design, with core logic kept
+      engine-agnostic so it can port later</li>
   </ul>
 </div>
 <!-- Repository information -->
@@ -109,6 +110,8 @@
   </li>
   <li>
     <strong>Game prototypes (Python / pygame-ce)</strong> —
+    <a href="https://github.com/RonelBG1213/tower_defense_core">tower_defense_core</a> (fixed-path tower
+    defense with a four-map campaign),
     <a href="https://github.com/RonelBG1213/hack_and_slash_base">hack_and_slash_base</a> (top-down twin-stick
     arena brawler),
     <a href="https://github.com/RonelBG1213/dungeon_maker_base">dungeon_maker_base</a> (turn-based pixel RPG
