@@ -109,13 +109,21 @@
     <a href="https://github.com/RonelBG1213/playwright-power-automate-reporter">playwright-power-automate-reporter</a>
   </li>
   <li>
-    <strong>Game prototypes (Python / pygame-ce)</strong> —
-    <a href="https://github.com/RonelBG1213/tower_defense_core">tower_defense_core</a> (fixed-path tower
-    defense with a four-map campaign),
-    <a href="https://github.com/RonelBG1213/hack_and_slash_base">hack_and_slash_base</a> (top-down twin-stick
-    arena brawler),
-    <a href="https://github.com/RonelBG1213/dungeon_maker_base">dungeon_maker_base</a> (turn-based pixel RPG
-    with a built-in dungeon editor)
+    <strong>Game prototypes (Python / pygame-ce)</strong>
+    <ul>
+      <li>
+        <a href="https://github.com/RonelBG1213/tower_defense_core">tower_defense_core</a> — fixed-path tower
+        defense with a four-map campaign
+      </li>
+      <li>
+        <a href="https://github.com/RonelBG1213/hack_and_slash_base">hack_and_slash_base</a> — top-down
+        twin-stick arena brawler
+      </li>
+      <li>
+        <a href="https://github.com/RonelBG1213/dungeon_maker_base">dungeon_maker_base</a> — turn-based pixel
+        RPG with a built-in dungeon editor
+      </li>
+    </ul>
   </li>
   <li>
     <strong>Notes &amp; learning</strong> —
